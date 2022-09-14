@@ -1,0 +1,15 @@
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\Task34\bin\Debug\net6.0\Task34.exe
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\Task34\bin\Debug\net6.0\Task34.deps.json
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\Task34\bin\Debug\net6.0\Task34.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\Task34\bin\Debug\net6.0\Task34.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\Task34\bin\Debug\net6.0\Task34.pdb
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\Task34\obj\Debug\net6.0\Task34.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\Task34\obj\Debug\net6.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\Task34\obj\Debug\net6.0\Task34.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\Task34\obj\Debug\net6.0\Task34.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\Task34\obj\Debug\net6.0\Task34.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\Task34\obj\Debug\net6.0\Task34.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\Task34\obj\Debug\net6.0\refint\Task34.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\Task34\obj\Debug\net6.0\Task34.pdb
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\Task34\obj\Debug\net6.0\Task34.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\Task34\obj\Debug\net6.0\ref\Task34.dll
