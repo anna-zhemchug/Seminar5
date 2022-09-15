@@ -1,0 +1,15 @@
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\TaskStar\obj\Debug\net6.0\TaskStar.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\TaskStar\obj\Debug\net6.0\TaskStar.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\TaskStar\obj\Debug\net6.0\TaskStar.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\TaskStar\obj\Debug\net6.0\TaskStar.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\TaskStar\obj\Debug\net6.0\TaskStar.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\TaskStar\bin\Debug\net6.0\TaskStar.exe
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\TaskStar\bin\Debug\net6.0\TaskStar.deps.json
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\TaskStar\bin\Debug\net6.0\TaskStar.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\TaskStar\bin\Debug\net6.0\TaskStar.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\TaskStar\bin\Debug\net6.0\TaskStar.pdb
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\TaskStar\obj\Debug\net6.0\TaskStar.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\TaskStar\obj\Debug\net6.0\refint\TaskStar.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\TaskStar\obj\Debug\net6.0\TaskStar.pdb
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\TaskStar\obj\Debug\net6.0\TaskStar.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar5\TaskStar\obj\Debug\net6.0\ref\TaskStar.dll
